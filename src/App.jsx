@@ -8,9 +8,12 @@ function App() {
 
 
   return (
-    <>
-      <h1 className='text-3xl font-bold underline'>3d portfolio</h1>
-    </>
+    <main className='bg-gray-900'>
+      <div>
+      <h1 className='text-3xl '>3d portfolio</h1>
+      </div>
+      
+    </main>
   )
 }
 
