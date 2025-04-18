@@ -10,7 +10,7 @@ function App() {
   return (
     <main className='bg-gray-900'>
       <div>
-      <h1 className='text-3xl '>3d portfolio</h1>
+      <h1 className='text-3xl '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eos amet aliquid ab blanditiis natus, dignissimos vel eveniet doloribus excepturi enim magni temporibus, distinctio inventore laborum atque maiores quos recusandae!</h1>
       </div>
       
     </main>
